@@ -25,4 +25,4 @@ Pasos seguidos para su creación:
   6. Ir a *Settings* -> *Pages* -> *Build and deployment* y allí montar la página. En 2 minutos estará lista
 
 
->[Link a la app](https://xemicris.github.io/)
+>[Link a la GitHub Pages](https://xemicris.github.io/)
