@@ -1,4 +1,4 @@
-# Mi GitHub Pages con tema
+# GitHub Pages con tema
 
 Pasos seguidos para su creación:
 
